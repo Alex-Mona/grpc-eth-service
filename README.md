@@ -483,4 +483,4 @@ func randomHex(n int) string {
 Resources: 
 - https://goethereumbook.org/en
 - https://geth.ethereum.org/docs/tools/abigen
-- https://grpc.io/docs/languages/go/quickstart/ дай знать!
+- https://grpc.io/docs/languages/go/quickstart/
